@@ -13,6 +13,7 @@
 		417D12C2244C88DC003F84A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 417D12C1244C88DC003F84A2 /* Assets.xcassets */; };
 		417D12C5244C88DC003F84A2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 417D12C4244C88DC003F84A2 /* Preview Assets.xcassets */; };
 		417D12C8244C88DC003F84A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 417D12C6244C88DC003F84A2 /* LaunchScreen.storyboard */; };
+		417D12D0244C9CFA003F84A2 /* CircleImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417D12CF244C9CFA003F84A2 /* CircleImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		417D12C4244C88DC003F84A2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		417D12C7244C88DC003F84A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		417D12C9244C88DC003F84A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		417D12CF244C9CFA003F84A2 /* CircleImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				417D12C6244C88DC003F84A2 /* LaunchScreen.storyboard */,
 				417D12C9244C88DC003F84A2 /* Info.plist */,
 				417D12C3244C88DC003F84A2 /* Preview Content */,
+				417D12CF244C9CFA003F84A2 /* CircleImageView.swift */,
 			);
 			path = SwiftUIDemo;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				417D12D0244C9CFA003F84A2 /* CircleImageView.swift in Sources */,
 				417D12BC244C88D9003F84A2 /* AppDelegate.swift in Sources */,
 				417D12BE244C88D9003F84A2 /* SceneDelegate.swift in Sources */,
 				417D12C0244C88D9003F84A2 /* ContentView.swift in Sources */,
